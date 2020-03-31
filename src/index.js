@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf';
 
 ReactDOM.render(
   <React.StrictMode>

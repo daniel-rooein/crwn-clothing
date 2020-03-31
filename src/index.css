@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Open Sans Condensed';
+  src: local('Open Sans Condensed'), url(./fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf) format('truetype');
+}
